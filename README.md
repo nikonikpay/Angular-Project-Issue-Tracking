@@ -1,6 +1,6 @@
 # IssueTracker
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
+The Issue tracke r porject using angular reactive form 
 
 ## Development server
 
