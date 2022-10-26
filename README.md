@@ -1,6 +1,6 @@
 # IssueTracker
 
-The Issue tracke r porject using angular reactive form 
+The Issue tracker porject using angular reactive form 
 
 ## Development server
 
